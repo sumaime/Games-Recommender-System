@@ -1,4 +1,4 @@
-# Games-Recommender-System Background
+# Games Recommender System Background
 
 
 ## Summary
