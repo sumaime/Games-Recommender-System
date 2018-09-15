@@ -10,7 +10,7 @@ In this project, we scraped the game and users’ information through Steam API 
 ## Models
 We consider three recommendation models here.
 
-### 1.	Collaborative filtering: Find the most relative product through grouping the purchase activities with users.
+### 1.	Item based filter (Collaborative filtering): Find the most relative product through grouping the purchase activities with users.
 
 •	Input: usage data(rating, score, purchase or not, download or not, time spend on the product, click rate)
 
@@ -21,7 +21,7 @@ We consider three recommendation models here.
 •	Disadvantage: Model can only use usage data. However, new users do not have usage data so that cannot define preference(cold start). Also, some products need to be standardized. For example, all Iphone6 are the same but different on colors. Moreover, if there is not enough product to recommend or one product is purchased by too many users(popularity bias), the model does not work well.
 
 
-### 2.	Content-based filter: Recommend through description and commends. 
+### 2.	Content-based filter (Collaborative filtering): Recommend through description and commends. 
 
 •	Input: text, description.
 
