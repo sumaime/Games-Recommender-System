@@ -4,7 +4,7 @@
 ## Summary
 The game industry belongs to entertainment industry, which is growing rapidly. Video games ranked as the 4th most spending field according to PWC US outlook for entertainment & media segments. Steam is the largest digital distribution platform for PC gaming and has over 100m active users on platform. 
 
-In this project, we scraped the game and users’ information through Steam API and using different recommendation models to create lists games the users most likely to play. 
+In this project, we scraped the game and users’ information through Steam API and using different recommendation models to create lists of games the users most likely to play. 
 
 
 ## Models
