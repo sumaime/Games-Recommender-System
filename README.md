@@ -14,7 +14,7 @@ We consider three recommendation models here.
 
 •	Input: usage data(rating, score, purchase or not, download or not, time spend on the product, click rate)
 
-•	Rationale: It can be user-based, which recommend based on what similar users play, or item-based, which recommend based on similarity between products. 
+•	Rationale: recommend based on similarity between products. 
 
 •	Advantage: only need usage data, do not need domain knowledge, do not need to consider products’ feature.
 
